@@ -1,5 +1,7 @@
 # DIGIVICE · GARURUMON LINE
 
+[![GitHub Pages](https://github.com/tzayadet/Digimon/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/Digimon/actions/workflows/jekyll-gh-pages.yml)
+
 Experimento interactivo de mascota digital inspirado en los dispositivos virtuales de crianza y evolución. La experiencia sigue una línea temática de Garurumon.
 
 **Demo:** https://tzayadet.github.io/Digimon/  
