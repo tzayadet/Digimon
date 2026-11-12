@@ -1,40 +1,47 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/INTERACTIVE_PROJECT-DIGIVICE-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="Digivice"/>
+  <img src="https://img.shields.io/badge/BROWSER_APP-HTML_CSS_JS-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # DIGIVICE · GARURUMON LINE
+
+Interactive digital-pet experiment inspired by virtual raising and evolution devices. This implementation follows a Garurumon-themed progression line.
+
+<p align="center">
+  <a href="https://tzayadet.github.io/Digimon/"><strong>LIVE DEMO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/Digimon"><strong>SOURCE CODE</strong></a>
+</p>
 
 [![GitHub Pages](https://github.com/tzayadet/Digimon/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/Digimon/actions/workflows/jekyll-gh-pages.yml)
 
-Experimento interactivo de mascota digital inspirado en los dispositivos virtuales de crianza y evolución. La experiencia sigue una línea temática de Garurumon.
+## Features
 
-**Demo:** https://tzayadet.github.io/Digimon/  
-**Código:** https://github.com/tzayadet/Digimon
+- Creature status panel.
+- Health, energy, mood and attribute indicators.
+- Care and evolution cycle.
+- Interactions and battle events.
+- Evolution and result screens.
+- Visual interface inspired by a Digivice device.
 
-## Funcionalidades
+## Use it
 
-- Panel de estado de la criatura.
-- Indicadores de salud, energía, ánimo y atributos.
-- Ciclo de cuidado y evolución.
-- Interacciones y eventos de combate.
-- Pantallas de evolución y resultados.
-- Interfaz visual inspirada en un dispositivo Digivice.
+Open the [live demo](https://tzayadet.github.io/Digimon/) in a modern browser and use the interface controls to interact with the creature.
 
-## Uso
-
-Abre la [demo](https://tzayadet.github.io/Digimon/) desde un navegador moderno y utiliza los controles de la interfaz para interactuar con la criatura.
-
-## Tecnologías
+## Technology
 
 - HTML5
 - CSS3
 - JavaScript
-- Animaciones y componentes visuales del navegador
+- Browser animation and visual APIs
 
-## Estado del proyecto
+## Scope
 
-Proyecto experimental de entretenimiento. Las mecánicas y la progresión pertenecen a esta implementación y no representan un simulador oficial de Digimon.
+Experimental entertainment project. Its mechanics and progression belong to this implementation and are not an official Digimon simulator or product.
 
-## Despliegue
+## Deployment
 
-Sitio estático publicado mediante GitHub Pages. No necesita un backend para mostrar la experiencia web.
+Static website published through GitHub Pages. No backend is required.
 
-## Licencia
+## License
 
-Consulta [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
